@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "927e20d2-a174-4e1a-9392-3bc184f0c234",
+    "appType": "clockface",
+    "appDisplayName": "Crypto_Final",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Crypto_Final"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
