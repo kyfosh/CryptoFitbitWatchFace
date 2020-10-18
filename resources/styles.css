@@ -1,0 +1,166 @@
+.background {
+  viewport-fill: black;
+}
+
+.circuit{
+  x:0;
+  y:0;
+  opacity:.35;
+}
+
+#glitch{
+  x:0;
+  y:0;
+}
+
+#battery_text{
+  font-size: 30;
+  font-family: System-Regular;
+  text-length: 5;
+  text-anchor: start;
+  fill: white;
+}
+
+#time {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 53%;
+  y: 95;
+  fill: white;
+}
+
+
+
+
+#myMonth{
+  text-length:16;
+  text-anchor:middle;
+  fill: white;
+  font-size: 32;
+  font-family: System-Light;
+  text-anchor: middle;
+  x: 50%;
+  y: 135;
+}
+
+/* col 1 */
+
+#steps_text {
+  font-size: 28;
+  text-anchor:start;
+  /*x:50%-70;*/
+  x:50%-10;
+  y:180;
+  text-length:6;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#steps_icon {
+  font-size: 28;
+  /*x:50%-110;*/
+  x:50%-50;
+  y:155;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#cal_text {
+  font-size: 28;
+  /*x:50%-70;*/
+  x:50%-10;
+  y:220;
+  text-length:4;
+  text-anchor:start;
+  font-family: System-Regular;
+  fill: white;
+}
+
+
+#cal_icon {
+  font-size: 28;
+  /*x:50%-110;*/
+  x:50%-50;
+  y:190;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#hrm-data {
+  font-size: 26;
+  /*x:50%-70;*/
+  x:50%-10;
+  y:255;
+  text-length:3;
+  text-anchor:start;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#hrm-icon {
+  /*x:50%-110;*/
+  x:50%-50;
+  y:230;
+  text-length:3;
+  font-family: System-Regular;
+  fill: white;
+}
+
+/* col 2 
+
+#dist_text {
+  font-size: 28;
+  text-anchor:start;
+  x:50%+60;
+  y:180;
+  text-length:6;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#dist_icon {
+  font-size: 28;
+  x:50%+20;
+  y:155;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#stair_text {
+  font-size: 28;
+  x:50%+60;
+  y:220;
+  text-length:4;
+  text-anchor:start;
+  font-family: System-Regular;
+  fill: white;
+}
+
+
+#stair_icon {
+  font-size: 28;
+  x:50%+20;
+  y:190;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#min_text {
+  font-size: 28;
+  x:50%+60;
+  y:255;
+  text-length:3;
+  text-anchor:start;
+  font-family: System-Regular;
+  fill: white;
+}
+
+#min_icon {
+  x:50%+20;
+  y:230;
+  text-length:3;
+  font-family: System-Regular;
+  fill: white;
+}*/

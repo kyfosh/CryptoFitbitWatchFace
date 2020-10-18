@@ -1,0 +1,31 @@
+<svg class="background">
+  <image class="background" width="300" height="300" href="crpatobg3.png" />
+  <image class="circuit" width="300" height="300" href="circuit.png"/>
+  
+  <g id="batt" pointer-events="visible" transform="translate(60%,8%)">
+    <text id="battery_text" ></text>
+  </g>
+                
+  
+<!--- date + time -->
+  <text id="myMonth"/>
+  <text id="time" />
+  
+
+  
+<!---- stats info ---->    
+  <image id="steps_icon" width="32" height="32" href="stat_steps_solid_32px.png" />
+    <text id="steps_text">{ ... }</text>
+    
+  <image id="cal_icon" width="32" height="32" href="stat_cals_solid_32px.png" />
+    <text id="cal_text">{...} </text>
+  
+  <image id="hrm-icon" width="32" height="32" href="stat_hr_solid_32px.png" />
+    <text id="hrm-data" class="sensor-data">N/A</text>
+
+  
+<image id="glitch" width="300" height="300"/>
+</svg>
+
+
+
